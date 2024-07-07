@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Marshalls Family","Powered By BOOSKAA"];
+const statusMessages = ["🔮 Marshalls Family","🌌 Powered By BOOSKAA"];
 
 
 let currentIndex = 0;
